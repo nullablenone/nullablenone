@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="">I'm Muhamad Yesa</h1>
+<h3 align="">A passionate frontend developer from Indonesia</h3>
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" alt="Coding" />
 
-<!--
-**nullablenone/nullablenone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nullablenone&label=Profile%20views&color=0e75b6&style=flat"
+        alt="nullablenone" />
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React** -
+- 💬 Ask me about **Laravel** -
+- 📫 How toreach me **useryesa9@gmail.com**
+- ⚡ Fun fact **I'm still in high school**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://instagram.com/nullablenone" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="nullablenone" height="30" width="40" /></a>
+</p>
+<h2 align="center">⚒️ Skill ⚒️</h2>
+<br />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,tailwind,laravel,react" />
+    <br>
+</div>
+
+<br />
