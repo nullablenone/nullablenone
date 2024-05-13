@@ -1,6 +1,6 @@
 <h1 align="center">I'm Muhamad Yesa</h1>
 <h3 align="center">Web Developer From Indonesia</h3>
-<img align="right" width="250" height="240" src="https://images-cdn.exchange.art/o4B16ArbZ6L3eTrjqVdNJh3eVuD6cKskWaK5PTLyVfc?ext=fastly&width=500&optimize=high&format=pjpg&auto=webp" alt="Coding" />
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" alt="Coding" />
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=nullablenone&label=Profile%20views&color=0e75b6&style=flat"
