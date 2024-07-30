@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Skill ⚒️</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,laravel,react" />
+    <img src="https://skillicons.dev/icons?i=html,php,mysql,bootstrap,laravel,github,vscode" />
     <br>
 </div>
 
