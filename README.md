@@ -17,7 +17,6 @@
 
 <br />
 <br />
-<br />
 <h2 align="center">⚒️ Skill ⚒️</h2>
 <br />
 <div align="center">
