@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Skill ⚒️</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,php,mysql,bootstrap,laravel,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,mysql,bootstrap,laravel,github,javascript,vscode" />
     <br>
 </div>
 
