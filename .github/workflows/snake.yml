@@ -41,9 +41,3 @@ jobs:
           # Optionally, you can set a custom commit message
           commit_message: "Update snake animation [skip ci]"
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nullablenone/nullablenone/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nullablenone/nullablenone/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nullablenone/nullablenone/output/github-snake.svg" />
-</picture>
