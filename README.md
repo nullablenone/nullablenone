@@ -1,7 +1,7 @@
 ```go
 func main() {
-	fmt.Println("saya muhamad yesa")
-	fmt.Println("seorang backend developer")
+	fmt.Println("i'am yesa")
+	fmt.Println("a problem solver")
 }
 ```
 
