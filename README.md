@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="gif/LegendOfNorthernBlade.gif" width="100%" alt="from vsthemes.org" />
+</div>
+
 ```go
 func main() {
 	fmt.Println("i'am yesa")
-	fmt.Println("a problem solver")
+	fmt.Println("a backend developer")
 }
 ```
 
