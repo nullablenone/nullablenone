@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="gif/LegendOfNorthernBlade.gif" width="100%" alt="from vsthemes.org" />
-</div>
+</div> -->
 
 ```go
 func main() {
